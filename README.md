@@ -1,11 +1,11 @@
 # Pump-Control-Program
 Program for controlling New Era syringe pumps at drop stations
 
-# new_era.py
+### new_era.py
 ????????
 
-# pump_control.py
+### pump_control.py
 ????????
 
-# set_pump_number.py
+### set_pump_number.py
 ????????
