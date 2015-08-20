@@ -17,8 +17,14 @@ Sets up the interface for the pump control system, which includes:
   - Status bar (running vs. stopped)
 
 Defines "run update" function that enables adjustment of flow rates while currently running
+
 Defines "syringe update" function that enables adjustment of syringe parameters if flow rates are stopped
-Defines "priming" function that allows for 
+
+Defines "prime pumps" function that allows for initialization, termination of priming syringes
+
+Defines shutdown paramaters
 
 
 ### set_pump_number.py
+
+Links pump number to a particular syringe pump; prints that number on interface
