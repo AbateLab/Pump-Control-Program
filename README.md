@@ -24,6 +24,9 @@ Defines "prime pumps" function that allows for initialization, termination of pr
 
 Defines shutdown paramaters
 
+### pump_control_timer.py
+
+Same as pump_control.py, with an additional timer feature, where all pumps stop after expiration of the set time
 
 ### set_pump_number.py
 
